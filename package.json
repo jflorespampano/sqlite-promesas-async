@@ -1,0 +1,16 @@
+{
+  "name": "sqlite-promesas",
+  "version": "1.0.0",
+  "description": "ejemplo de node con sqlite usando promesas",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jflores",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": []
+}
